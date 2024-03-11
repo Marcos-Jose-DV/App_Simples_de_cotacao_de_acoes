@@ -4,7 +4,7 @@ import pandas as pd
 
 st.write("""
  # App simple de preço de ações    
-  mostram o preço de **fechamento** das ações e o **volume** do Google
+  mostram o preço de **fechamento** das ações e o **volume** 
 """)
 
 tickerSymbol = {

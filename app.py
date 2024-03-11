@@ -3,7 +3,7 @@ import yfinance as yf
 import pandas as pd
 
 st.write("""
- # Simple de preços de ações    
+ # App simple de preço de ações    
   mostram o preço de **fechamento** das ações e o **volume** do Google
 """)
 
